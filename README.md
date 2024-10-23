@@ -51,7 +51,7 @@ pip install pandas numpy matplotlib scipy seaborn
 Clone the repository to your local machine using:
 ```bash
 git clone https://github.com/Sonwabiso1/Student-graduate-vs-dropout-analysis.git
-cd student-dropout-prediction
+cd Student-graduate-vs-dropout-analysis
 ```
 
 ---
