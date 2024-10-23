@@ -132,11 +132,7 @@ If you'd like to contribute to this project, feel free to submit a pull request 
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
-
----
-
 ## Acknowledgements
 Special thanks to the data providers and educational institutions that made this analysis possible.
+This data was obtained from this source: [kaggle](https://www.kaggle.com/datasets/syedfaizanalii/predict-students-dropout-and-academic-success).
+
